@@ -3,7 +3,7 @@
 ################################################################################
 
 /ChatApi/obj
-/ChatApi/bin/Debug/netcoreapp2.1
+/ChatApi/bin/Debug/netcoreapp6.0
 /obj
 /bin/Debug
 /.vs
